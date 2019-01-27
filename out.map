@@ -1,0 +1,19 @@
+com.cylee.test.ClassWitchKeep -> com.cylee.test.ClassWitchKeep:
+    java.lang.String b3 -> b3
+    void <init>() -> <init>
+    void keep() -> keep
+com.cylee.test.ITest -> com.cylee.test.ITest:
+    void test() -> test
+com.cylee.test.ITest2 -> com.cylee.test.ITest2:
+    void test2() -> test2
+com.cylee.test.ITest3 -> com.cylee.test.ITest3:
+    void test3() -> test3
+com.cylee.test.SubTest -> com.cylee.test.SubTest:
+    void <init>() -> <init>
+com.cylee.test.Test -> com.cylee.test.Test:
+    void <init>() -> <init>
+    void test2() -> test2
+    void test() -> test
+com.cylee.test.Test2 -> com.cylee.test.Test2:
+    void <init>() -> <init>
+    void test() -> test

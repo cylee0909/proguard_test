@@ -1,0 +1,15 @@
+Test
+Test$Node
+TestMathUtil
+com.cylee.test.ClassWitchKeep:
+    private int a
+    protected int b
+    protected java.lang.String b2
+    public java.lang.Object c
+    23:23:protected void protectMethod()
+    27:27:private void privateMethod()
+com.cylee.test.MathUtil
+com.cylee.test.MathUtil$Node
+com.cylee.test.SubTest:
+    9:9:private void a()
+com.cylee.test.UseLessClass
